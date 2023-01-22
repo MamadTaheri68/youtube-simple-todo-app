@@ -1,3 +1,4 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/MamadTaheri/youtube-simple-todo-app)
 # Links:
 [Youtube Plalist](https://www.youtube.com/playlist?list=PLUX0GmrifrwdXOqmkh8y_3N5BGpkzIPmg)
 __________
